@@ -1,1 +1,47 @@
-# UniSmart
+# 🎓 UniSmart – University Student Management System
+
+A professional desktop application developed using **PyQt5** and **MySQL** for managing university student records.
+
+---
+
+## 📌 Project Overview
+
+UniSmart is a CRUD-based system that allows users to:
+
+- Add new student records  
+- Update existing records  
+- Delete records  
+- Search students by Registration Number  
+- Navigate records (Next / Previous)  
+- Reset form inputs  
+- View all data in a structured table  
+
+The system is designed following **software engineering best practices**, including modular design and clean architecture.
+
+---
+
+## 🧱 System Architecture
+
+The project follows a structured layered design:
+UI Layer (PyQt5)
+↓
+Controller Layer (Logic)
+↓
+Database Layer (MySQL)
+
+
+---
+
+## 🖥️ User Interface Features
+
+- Clean and modern UI styling  
+- Input validation support  
+- Table view for all records  
+- Navigation buttons (Next / Previous)  
+- Clear feedback using message boxes  
+
+---
+
+## 🗄️ Database Design
+
+### Database Name:University
