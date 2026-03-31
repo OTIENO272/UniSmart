@@ -45,3 +45,17 @@ Database Layer (MySQL)
 ## 🗄️ Database Design
 
 ### Database Name:University
+
+### Table: Students
+
+```sql
+CREATE TABLE Students (
+    RegistrationNumber VARCHAR(20) PRIMARY KEY,
+    SecondName VARCHAR(50),
+    Surname VARCHAR(50),
+    Course VARCHAR(50),
+    County VARCHAR(50),
+    Gender VARCHAR(10),
+    Department VARCHAR(50),
+    School VARCHAR(50)
+);
