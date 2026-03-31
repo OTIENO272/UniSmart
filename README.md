@@ -61,7 +61,7 @@ CREATE TABLE Students (
 );
 ```
 ### 🛠️ Technologies Used
-Python 3
-PyQt5 (GUI)
-MySQL (Database)
-mysql-connector-python
+-Python 3
+-PyQt5 (GUI)
+-MySQL (Database)
+-mysql-connector-python
