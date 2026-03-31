@@ -59,7 +59,8 @@ CREATE TABLE Students (
     Department VARCHAR(50),
     School VARCHAR(50)
 );
-🛠️ Technologies Used
+```
+### 🛠️ Technologies Used
 Python 3
 PyQt5 (GUI)
 MySQL (Database)
