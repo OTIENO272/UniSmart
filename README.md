@@ -102,22 +102,23 @@ CREATE TABLE Students (
     School VARCHAR(50)
 );
 ```
-
+---
 ### 4. Run the application
 
 ### File Conversion 
----
-use the jupyter nbconvert --to script your_notebook.ipynb command in your terminal
-1.Open your command prompt or terminal.
-2.Navigate to the directory containing your file.
-3.Run:
-'''
-jupyter nbconvert --to script UniSmart.ipynb
-```
-Name the file properly
-```
-python main.py 
 
+use the jupyter nbconvert --to script your_notebook.ipynb command in your terminal
+- 1.Open your command prompt or terminal.
+- 2.Navigate to the directory containing your file.
+- 3.Run:
+```
+jupyter nbconvert --to script UniSmart.ipynb
+
+
+
+
+python UniSmart.py 
+```
 ---
 ### 📁 Project Structure
 ```
