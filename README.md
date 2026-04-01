@@ -103,6 +103,7 @@ CREATE TABLE Students (
 );
 ```
 ### 4. Run the application
+Name the file properly
 ```
 python main.py 
 ```
