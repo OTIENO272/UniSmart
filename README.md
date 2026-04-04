@@ -1,4 +1,5 @@
 
+  
 # 🎓 UniSmart –Simple University Student Management System
 
 A professional desktop application developed using **PyQt5** and **MySQL** for managing university student records.
