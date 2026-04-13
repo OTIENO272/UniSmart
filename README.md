@@ -82,6 +82,8 @@ CREATE TABLE Students (
 
 
 ### 2. Install dependencies
+inside the file ,there are all the packages needed for the application to run
+
 ```
 pip install -r requirements.txt
 ```
