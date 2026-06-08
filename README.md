@@ -6,6 +6,7 @@ A professional desktop application developed using **PyQt5** and **MySQL** for m
 
 ---
 
+
 ## 📌 Project Overview
 
 UniSmart is a CRUD-based system that allows users to:
